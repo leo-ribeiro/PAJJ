@@ -4,9 +4,9 @@
 
 * Lado esquerdo:
 
-- [] Colocar uma imagem de background da galera treinando.
-- [] Colocar a Logo da equipe (flutuando) na parte superior esquerda (pequena).
-- [] Abaixo da Logo  colocar o nome da equipe (Paulo dos Anjos Jiu-Jitsu).
+- [x] Colocar uma imagem de background da galera treinando.
+- [x] Colocar a Logo da equipe (flutuando) na parte superior esquerda (pequena).
+- [x] Abaixo da Logo  colocar o nome da equipe (Paulo dos Anjos Jiu-Jitsu).
 - [] Abaixo do nome da equipe ficará uma frase: Ex: "Atividade para todos. 
     Venha  se inspirar e alcançar seus objetivos.
 - [] Abaixo da frase, terá um botão de saiba mais.
