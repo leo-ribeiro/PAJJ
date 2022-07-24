@@ -1,6 +1,6 @@
 # _SITE DA EQUIPE PAULO DOS ANJOS JIU-JITSU_
 
-## Primeira parte da página;
+## Primeira parte da página
 
 * Lado esquerdo:
 
