@@ -93,6 +93,13 @@ body {
 } */
 
 #segunda-parte {
-    height: 460px;
+    flex-direction: row;
+    height: 200px;
     background-color: rgb(36,36,36);
+    
+}
+
+.descricao p {
+    font-size: 30px;
+    color: #FFF;
 }
