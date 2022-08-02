@@ -84,14 +84,14 @@ body {
 
 #segunda-parte {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     height: 200px;
     background-color: rgb(36,36,36);
     
 }
 
 .descricao p {
-    font-size: 30px;
+    font-size: 20px;
     color: #FFF;
     padding: 10px;
 }
