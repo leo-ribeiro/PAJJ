@@ -83,7 +83,8 @@ body {
 }
 
 #segunda-parte {
-    flex-direction: row;
+    display: flex;
+    flex-direction: column;
     height: 200px;
     background-color: rgb(36,36,36);
     
