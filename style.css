@@ -102,6 +102,12 @@ body {
     margin: 100px;   
 }
 
+.descricao img {
+    width: 60px;
+    height: 60px;
+    margin-left: 60px;
+}
+
 @media (max-width: 700px) {
     .sobreposicao, #segunda-parte {   
       flex-direction: column;
