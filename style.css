@@ -90,19 +90,44 @@ body {
 #segunda-parte {
     display: flex;
     flex-direction: row;
+    justify-content: space-evenly;
     height: 300px;
     background-color: rgb(36,36,36);
     width: 100vw;
     max-width: 100vw;
 }
 
-.descricao {
+.descricao1 {
     font-size: 15px;
     color: #FFF;
     margin: 100px;   
 }
 
-.descricao img {
+.descricao1 img {
+    width: 60px;
+    height: 60px;
+    margin-left: 60px;
+}
+
+.descricao2 {
+    font-size: 15px;
+    color: #FFF;
+    margin: 100px;   
+}
+
+.descricao2 img {
+    width: 60px;
+    height: 60px;
+    margin-left: 60px;
+}
+
+.descricao3 {
+    font-size: 15px;
+    color: #FFF;
+    margin: 100px;   
+}
+
+.descricao3 img {
     width: 60px;
     height: 60px;
     margin-left: 60px;
