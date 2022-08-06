@@ -89,6 +89,11 @@ body {
     transition-duration: 0.4s;
 }
 
+.saiba-mais:hover {
+    background-color: #FFF;
+    color: rgb(204, 8, 8)
+}
+
 #segunda-parte {
     display: flex;
     flex-direction: row;
