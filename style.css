@@ -157,3 +157,8 @@ body {
       flex-direction: column;
     }
   }
+
+  .parte-3 {
+    height: 551px;
+    background-color: rgb(25,25,25);
+  }
