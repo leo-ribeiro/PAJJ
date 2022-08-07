@@ -162,3 +162,8 @@ body {
     height: 551px;
     background-color: rgb(25,25,25);
   }
+
+  .video-1 {
+    padding-left: 200px;
+    padding-top: 100px;
+  }
