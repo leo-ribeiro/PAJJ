@@ -159,12 +159,33 @@ body {
   }
 
   .parte-3 {
-    height: 551px;
+    display: flex;
+    flex-direction: row;
+    height: 530px;
     background-color: rgb(25,25,25);
     color: #FFF;
+    
   }
 
   .video-1 {
     padding-left: 200px;
     padding-top: 100px;
+  }
+  
+  .descricao-p3 {
+    padding-left: 100px;
+    padding-top: 60px;
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: 900;
+  }
+
+  .descricao-p3 h2 {
+    font-size: 60px;
+    align-items: center;
+
+  }
+
+  .descricao-p3 p {
+    font-size: 25px;
   }
