@@ -210,8 +210,8 @@ body {
     height: 300px;
   }
 
-  @media (max-width: 1200px) {
-    .principal .background .sobreposicao, #segunda-parte {   
+  @media screen and (max-width: 1200px) {
+    body .principal .background .sobreposicao, #segunda-parte {   
       width: 1000px;
     }
   }
