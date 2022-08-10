@@ -210,14 +210,33 @@ body {
     height: 300px;
   }
 
-  @media screen and (max-width: 1200px) {
-    body .principal .background .sobreposicao, #segunda-parte {   
-      width: 1000px;
+  @media screen and (max-width: 1201px) {
+    body, .principal, .background, .sobreposicao, .centralizar, .header, .logo, .redes-sociais,  #segunda-parte{   
+      width: 100%;
     }
   }
 
-  @media (max-width: 1024px) {
-    .principal .background .sobreposicao, #segunda-parte {   
-      width: 700px;
+  @media screen and (max-width: 1200px) {
+    html, body, .principal, .background, .sobreposicao, .centralizar, .header, .logo, .redes-sociais,  #segunda-parte{   
+      width: 1025px;
     }
   }
+
+  @media screen and (max-width: 1024px) {
+    html, body, .principal, .background, .sobreposicao, .centralizar, .header, .logo, .redes-sociais,  #segunda-parte{   
+      width: 769px;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    html, body, .principal, .background, .sobreposicao, .centralizar, .header, .logo, .redes-sociais,  #segunda-parte {   
+      width: 481px;
+    }
+  }
+
+  @media screen and (max-width: 480px) {
+    body, .principal, .background, .sobreposicao, .centralizar, .header, .logo, .redes-sociais,  #segunda-parte {   
+      width: 320px;
+    }
+  }
+
