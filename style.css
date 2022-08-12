@@ -235,7 +235,7 @@ body {
   }
 
   @media screen and (max-width: 480px) {
-    body, .principal, .background, .sobreposicao, .centralizar, .header, .logo, .redes-sociais,  #segunda-parte {   
+    html, body, .principal, .background, .sobreposicao, .centralizar, .header, .logo, .redes-sociais,  #segunda-parte {   
       width: 320px;
     }
   }
